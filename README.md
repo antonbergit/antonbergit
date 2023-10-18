@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antonbergit
 - 👀 I’m interested in christianity, software development, 
-- 🌱 I’m currently learning Python and ODOO(15)
+- 🌱 I’m currently learning Python and ODOO(16)
 - 💞️ I’m looking to collaborate on business accounting software development
 - 📫 How to reach me 
 - - - anton.berg.it@gmail.com
